@@ -21,4 +21,4 @@ Please upload a fully completed file with all chapters.
 
 
 ## novels currently uploaded (epub)
-reverend insanity, lord of the mysteries, a will eternal, i shall seal the heavens, omniscient reader's viewpoint
+reverend insanity, lord of the mysteries, a will eternal, i shall seal the heavens, omniscient reader's viewpoint, sss class suicide hunter, 
