@@ -6,6 +6,7 @@
 
 Hi! I store my wuxia epubs here, you are free to download them and send me some aswell in the issues tabs.
 
+for sources look [here](https://github.com/cykorr/wuxia-epubs/blob/main/sources.md)
 
 ## Contributing
 
