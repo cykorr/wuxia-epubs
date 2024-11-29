@@ -20,5 +20,5 @@ Start an issue and upload the file + title of novel
 Please upload a fully completed file with all chapters.
 
 
-## novels currently uploaded
-reverend insanity, lord of the mysteries, a will eternal, i shall seal the heavens
+## novels currently uploaded (epub)
+reverend insanity, lord of the mysteries, a will eternal, i shall seal the heavens, omniscient reader's viewpoint
