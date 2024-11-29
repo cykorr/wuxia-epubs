@@ -3,7 +3,7 @@
  - [Reverend Insanity (Ri)](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-Reverend_Insanity.epub)
  - [A Will Eternal (AWE)](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-AWE.epub)
  - [I Shall Seal The Heavens (ISSTH)](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-ISSTH.epub)
- - [Blank Template](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-)
+ - [Lord of the Mysteries](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-LotM)
  - [Blank Template](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-)
  - [Blank Template](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-)
  - [Blank Template](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-)
