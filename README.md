@@ -8,6 +8,7 @@ Hi! I store my wuxia epubs here, you are free to download them and send me some 
 
 for sources look [here](https://github.com/cykorr/wuxia-epubs/blob/main/sources.md)
 
+[DOWNLOAD ePUB FILES](https://github.com/cykorr/wuxia-epubs/blob/main/DOWNLOAD.md)
 ## Contributing
 
 Contributions are always welcome!
