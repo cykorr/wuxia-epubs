@@ -1,8 +1,8 @@
 ## FIND NOVELS & DOWNLOAD
 
- - [Reverend Insanity (Ri)](https://github.com/cykorr/wuxia-epubs/blob/main/cyk0rr-Reverend_Insanity.epub)
- - [A Will Eternal (AWE)](https://github.com/cykorr/wuxia-epubs/blob/main/cyk0rr-AWE.epub)
- - [I Shall Seal The Heavens (ISSTH)](https://github.com/cykorr/wuxia-epubs/blob/main/cyk0rr-ISSTH.epub)
+ - [Reverend Insanity (Ri)](https://github.com/cykorr/wuxia-epubs/blob/main/files/cyk0rr-Reverend_Insanity.epub)
+ - [A Will Eternal (AWE)](https://github.com/cykorr/wuxia-epubs/blob/files/main/cyk0rr-AWE.epub)
+ - [I Shall Seal The Heavens (ISSTH)](https://github.com/cykorr/wuxia-epubs/blob/files/main/cyk0rr-ISSTH.epub)
  - [Blank Template](https://www.lightnovelworld.co/novel/)
  - [Blank Template](https://www.lightnovelworld.co/novel/)
  - [Blank Template](https://www.lightnovelworld.co/novel/)
